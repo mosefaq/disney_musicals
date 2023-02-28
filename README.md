@@ -16,4 +16,4 @@ Visualisations and findings are reported in .ipyb files in the `report` folder. 
 
 
 ## Tableau 
-A link to interactive Tableau dashboards with insights can also be found here: [link]. This is slightly less comprehensive than the report (as it's just quick insights) but I decided to include them just for demonstration of Tableau competency.
+A link to interactive Tableau dashboards with insights can also be found here: [link](https://public.tableau.com/views/DisneyWIP/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link). This is slightly less comprehensive than the report (as it's just quick insights) but I decided to include them just for demonstration of Tableau competency.
